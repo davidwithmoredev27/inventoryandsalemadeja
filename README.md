@@ -1,4 +1,4 @@
-# inventoryandsalemadeja
+# inventory and sale madeja
 
 The solution is compatible with microsoft visual studio 2012
 
